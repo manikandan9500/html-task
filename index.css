@@ -1,21 +1,33 @@
- body{
-    background-color: white;
- }
- .box-part1{
-    background-color:darkgray;
- }
- .fa{
-    color:rgb(33, 25, 25);
- }
- .box{
-    padding: 30px 10px;
-
+body{
+    background-color:rgb(52, 225, 165);
+    padding-top: 40px;
+    padding-left: 500px;
+    
+}
+.box-part{
+   background-color:rgb(128, 128, 228);
+   padding-top: 25px;
+   padding-left:500px;
+}
+.fa{
+    color:rgb(137, 173, 173);
+}
+a{
+    
+    border-bottom: 1px solid grey;
+}
+.box-part1{
+    background-color:linen;
+    padding-top: 25px;
+    padding-left:50px;
  }
  .box-part2{
-   background-color: rgb(118, 116, 120);
-   }
-
- .selate{
-   background-color:gray
+    background-color:lightblue;
+    padding-top: 25px;
+    padding-left:350px;
  }
- 
+ .box-part3{
+    background-color:rgba(71, 84, 84, 0.813);
+    padding-top: 25px;
+    padding-left:250px;
+ }
