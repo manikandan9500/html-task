@@ -1,0 +1,21 @@
+ body{
+    background-color: white;
+ }
+ .box-part1{
+    background-color:darkgray;
+ }
+ .fa{
+    color:rgb(33, 25, 25);
+ }
+ .box{
+    padding: 30px 10px;
+
+ }
+ .box-part2{
+   background-color: rgb(118, 116, 120);
+   }
+
+ .selate{
+   background-color:gray
+ }
+ 
